@@ -36,31 +36,6 @@ Install the required npm packages by running the following command:
 npm install
 ```
 
-### Set Environment Variables
-
-Create a `.env` file in the root directory and add the necessary environment variables:
-
-```env
-DATABASE_URL=your_mongodb_connection_string
-SECRET=your_secret_key
-PORT=3000
-```
-
-### Run the Application
-
-Start the application with the following command:
-
-```bash
-npm run start
-npm run server (nodemon)
-```
-
-The application will be accessible at `http://localhost:3000`.
-
-Now you have successfully cloned and set up the Log Ingestor and Query Interface on your local machine. Feel free to explore the provided APIs and functionalities!
-
-If you have any questions or encounter issues during the setup process, don't hesitate to ask for assistance.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
